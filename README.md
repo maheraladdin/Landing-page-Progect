@@ -32,7 +32,7 @@ after that, I declare a new function to manipulate page structure while scrollin
 		step4.2. I call a function that I also made to add the active class for the section that the user views to manipulate the view 
         "line 47"
 
-### part3 External functions (I made them that way to orgnize my code)
+#### part3 External functions (I made them that way to orgnize my code)
 
 function remove the active class "line 39"
 	I select all sections, then I remove the active class from them all
